@@ -114,6 +114,4 @@ void CHMAC_SHA512::Finalize(unsigned char hash[OUTPUT_SIZE])
 ```
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight)
-~~~~~~~
 ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
